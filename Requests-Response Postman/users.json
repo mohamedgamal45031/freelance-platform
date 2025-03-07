@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "secure123",
+    "phoneNumber": "+123456789",
+    "address": "123 Main St"
+  },
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "secure123",
+    "phoneNumber": "+123456789",
+    "address": "123 Main St"
+  }
+]
